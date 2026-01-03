@@ -1,10 +1,8 @@
-# Hi there, I'm Pratha Chaturvedi 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pratha+Chaturvedi;First+Year+MCA+Student;Building+Fullstack+Systems" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/pratha1210">
-    <img src="https://github-readme-stats.vercel.app/api?username=pratha1210&show_icons=true&theme=dracula&rank_icon=github" alt="pratha-chaturvedi-stats" />
-  </a>
-</p>
+<br/>
 
 I'm a passionate **Software Developer** with a strong foundation in computer science. I love tackling challenges at the exciting intersection of **Web Development** and **Machine Learning**. My goal is to build clean, efficient applications and leverage data to create smarter, more intuitive user experiences.
 
@@ -17,9 +15,8 @@ I'm a passionate **Software Developer** with a strong foundation in computer sci
 
 ## 💡 More About Me
 
-* 🧠 I’m currently deepening my understanding of advanced **Machine Learning algorithms** and exploring new Python libraries.
 * 💻 I’m working on personal **full-stack development** projects to apply my skills in practical scenarios.
-* 🤝 I’m open to collaborating on **open-source projects**, especially those involving **Flask**, **Java**, or **data science**.
+* 🤝 I’m open to collaborating on **open-source projects**, especially those involving **Flask**, **Java**.
 * ❓ Ask me about anything related to my tech stack or my journey into tech!
 * 📫 You can reach out to me here on [GitHub](https://github.com/pratha1210)!
 
