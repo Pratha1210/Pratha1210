@@ -43,7 +43,7 @@ Here are some of the technologies I'm proficient in:
 ---
 
 <p align="center">
-  <small>_Built with passion and code._</small>
+  <small>Built with passion and code.</small>
 </p>
 
 <!--
